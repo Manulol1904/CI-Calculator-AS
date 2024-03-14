@@ -103,7 +103,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public static double calcularsuma(double nu1, double nu2) {
-        return (nu1-nu2);
+        return (nu1+nu2);
     }
 
     public static double calcularresta(double nu1, double nu2) {
